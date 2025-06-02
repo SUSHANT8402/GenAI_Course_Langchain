@@ -15,4 +15,10 @@
  - variables in python
  -conditional statements
 
+ ## DAY 3 - 2nd June,2025
+
+- Learning about python Data Structures
+ - Learning about list
+
+
 
