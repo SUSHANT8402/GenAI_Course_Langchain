@@ -18,7 +18,13 @@
  ## DAY 3 - 2nd June,2025
 
 - Learning about python Data Structures
- - Learning about list
+ - Learning about list   
+
+  ## DAY 4 - 3rd June,2025
+
+- Learning about python Data Structures
+ - Learning about list     
+ - Learning about corpus tokenization     
 
 
 
