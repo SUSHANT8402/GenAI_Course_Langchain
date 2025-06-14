@@ -42,6 +42,16 @@
  - Text Processing using stemming using NLTK
    - porter stemmer
    - snowball stemmer
+  -Text Processing using Lemmatization
+- Learning about functions in python
+
+   ## DAY 8 - 15th June,2025
+- Learning about lambda functions in python
+ - learned lambda functions
+ - learned map() function
+ - learned about filter() function
+
+
 
 
 

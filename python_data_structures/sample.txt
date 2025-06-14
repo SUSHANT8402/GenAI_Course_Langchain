@@ -1,0 +1,5 @@
+Wordnet Lemmatizer
+
+Lemmatization technique is like stemming.The output will get after lemmatization is called 'lemma',which is a root word rather than a root stem,the output of stemming.After lemmatization we wll be getting a valid word that means the same thing.
+
+NLTK provides WordNetLemmatizer class which is a thin wrapper around the wordnet corpus.This class uses morphy()  function to The WordNet CorpusReader class to find a lemma.Let see with few examples
