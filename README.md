@@ -23,8 +23,30 @@
   ## DAY 4 - 3rd June,2025
 
 - Learning about python Data Structures
- - Learning about list     
- - Learning about corpus tokenization     
+ - Learning about list   
+ - learning about tuples data structures  
+- Learning about NLP
+ - Learning about corpus tokenization  
+
+   ## DAY 5 - 5th June,2025
+
+- Learning about python Data Structures
+  - Lerning about dictionaries
+
+   ## DAY 6 - 10th June,2025
+- Learning about NLP
+ - Text Processing using stemming using NLTK
+
+   ## DAY 7 - 14th June,2025
+- Learning about NLP
+ - Text Processing using stemming using NLTK
+   - porter stemmer
+   - snowball stemmer
+
+
+
+
+
 
 
 
