@@ -51,6 +51,13 @@
  - learned map() function
  - learned about filter() function
 
+   ## DAY 9 - 16th June,2025
+- Learning about importing modules and packages
+- Learning about Libraries in python
+- Learning about file operations and Working with file paths
+- Learned about Exception handeling in python
+
+
 
 
 
