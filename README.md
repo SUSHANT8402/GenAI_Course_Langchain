@@ -57,6 +57,11 @@
 - Learning about file operations and Working with file paths
 - Learned about Exception handeling in python
 
+   ## DAY 10 - 17th June,2025
+- Learning about oops in pyhton
+ - Topic1: Classes and Objects in python
+ - Topic2: Single and Multi inheritance 
+
 
 
 
