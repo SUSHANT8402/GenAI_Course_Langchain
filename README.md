@@ -61,6 +61,13 @@
 - Learning about oops in pyhton
  - Topic1: Classes and Objects in python
  - Topic2: Single and Multi inheritance 
+ - Topic3: Polymorphism
+
+   ## DAY 11 - 18th June,2025
+- Learning about oops in pyhton
+ - Topic1: Encapsulation and Abstraction
+ - Topic2: Magic  Methods in python
+ - Topic3: Operator Overloading
 
 
 
