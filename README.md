@@ -1,77 +1,153 @@
-# Learning about the GenAI with Langchain and Hugging Face
+Here’s your updated and properly formatted `README.md` in **Markdown**, including clear hierarchy, consistent date formatting, and proper bullet alignment:
 
-## DAY 1 - 31st June,2025
+---
 
-- Learning about python basics
- - vs code basics
- - python basics - syntax and semantics
- - variables in python
+# 📚 Learning GenAI with Langchain and Hugging Face
 
-## DAY 2 - 1st June,2025
+This repository tracks the daily progress of learning Python, NLP, and GenAI using Langchain and Hugging Face.
 
-- Learning about python basics
- - python data types
- - operators in python
- - variables in python
- -conditional statements
+---
 
- ## DAY 3 - 2nd June,2025
+## 📅 DAY 1 - 31st May, 2025
 
-- Learning about python Data Structures
- - Learning about list   
+* Learning Python basics:
 
-  ## DAY 4 - 3rd June,2025
+  * VS Code basics
+  * Python syntax and semantics
+  * Variables in Python
 
-- Learning about python Data Structures
- - Learning about list   
- - learning about tuples data structures  
-- Learning about NLP
- - Learning about corpus tokenization  
+---
 
-   ## DAY 5 - 5th June,2025
+## 📅 DAY 2 - 1st June, 2025
 
-- Learning about python Data Structures
-  - Lerning about dictionaries
+* Continued Python basics:
 
-   ## DAY 6 - 10th June,2025
-- Learning about NLP
- - Text Processing using stemming using NLTK
+  * Data types
+  * Operators
+  * Variables
+  * Conditional statements
 
-   ## DAY 7 - 14th June,2025
-- Learning about NLP
- - Text Processing using stemming using NLTK
-   - porter stemmer
-   - snowball stemmer
-  -Text Processing using Lemmatization
-- Learning about functions in python
+---
 
-   ## DAY 8 - 15th June,2025
-- Learning about lambda functions in python
- - learned lambda functions
- - learned map() function
- - learned about filter() function
+## 📅 DAY 3 - 2nd June, 2025
 
-   ## DAY 9 - 16th June,2025
-- Learning about importing modules and packages
-- Learning about libraries overview in python
-- Learning about file operations
-- Learning about working with file paths
-- Learning about exception handeling
+* Python Data Structures:
 
-  
+  * Lists
 
-    ## DAY 13 - 20th June,2025
-- Learning about basics in NLP
- - Stop words for pre processing
- - Part of speech tag for words
- - Named Entity Recognition 
+---
 
+## 📅 DAY 4 - 3rd June, 2025
 
+* Python Data Structures:
 
+  * Lists
+  * Tuples
 
+* Introduction to NLP:
 
+  * Corpus and Tokenization
 
+---
 
+## 📅 DAY 5 - 5th June, 2025
 
+* Python Data Structures:
 
+  * Dictionaries
+
+---
+
+## 📅 DAY 6 - 10th June, 2025
+
+* NLP:
+
+  * Text processing using **Stemming** (with NLTK)
+
+---
+
+## 📅 DAY 7 - 14th June, 2025
+
+* NLP:
+
+  * Stemming with:
+
+    * Porter Stemmer
+    * Snowball Stemmer
+  * Text processing using **Lemmatization**
+
+* Python:
+
+  * Functions (definition and usage)
+
+---
+
+## 📅 DAY 8 - 15th June, 2025
+
+* Python:
+
+  * Lambda functions
+  * Built-in functions:
+
+    * `map()`
+    * `filter()`
+
+---
+
+## 📅 DAY 9 - 16th June, 2025
+
+* Python:
+
+  * Modules and Packages
+  * Library Overview
+  * File Operations
+  * File Paths
+  * Exception Handling
+
+---
+
+## 📅 DAY 10 - 17th June, 2025
+
+* Object-Oriented Programming (OOP) in Python:
+
+  * Classes and Objects
+  * Single and Multiple Inheritance
+  * Polymorphism
+
+---
+
+## 📅 DAY 11 - 18th June, 2025
+
+* OOP Continued:
+
+  * Encapsulation and Abstraction
+  * Magic Methods
+  * Operator Overloading
+
+---
+
+## 📅 DAY 12 - 19th June, 2025
+
+* Streamlit:
+
+  * Install using `requirements.txt`
+  * Run app:
+
+    ```bash
+    streamlit run app.py
+    ```
+  * Displaying DataFrames, Charts, and Widgets
+  * Simple ML classification app using **Iris** dataset
+
+---
+
+## 📅 DAY 13 - 20th June, 2025
+
+* NLP Basics:
+
+  * Stopword Removal (Preprocessing)
+  * POS (Part-of-Speech) Tagging
+  * Named Entity Recognition (NER)
+
+---
 
