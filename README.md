@@ -60,6 +60,12 @@
 
   
 
+    ## DAY 13 - 20th June,2025
+- Learning about basics in NLP
+ - Stop words for pre processing
+ - Part of speech tag for words
+ - Named Entity Recognition 
+
 
 
 
