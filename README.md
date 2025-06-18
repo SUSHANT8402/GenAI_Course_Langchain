@@ -53,12 +53,28 @@
 
    ## DAY 9 - 16th June,2025
 - Learning about importing modules and packages
-- Learning about libraries overview in python
-- Learning about file operations
-- Learning about working with file paths
-- Learning about exception handeling
+- Learning about Libraries in python
+- Learning about file operations and Working with file paths
+- Learned about Exception handeling in python
 
-  
+   ## DAY 10 - 17th June,2025
+- Learning about oops in pyhton
+ - Topic1: Classes and Objects in python
+ - Topic2: Single and Multi inheritance 
+ - Topic3: Polymorphism
+
+   ## DAY 11 - 18th June,2025
+- Learning about oops in pyhton
+ - Topic1: Encapsulation and Abstraction
+ - Topic2: Magic  Methods in python
+ - Topic3: Operator Overloading
+
+   ## DAY 12 - 19th June,2025
+- Learning about streamlit
+ - install streamlit from requirements.txt
+ - run **streamlit run app.py** to run application
+ - displaying dataframe,charts and other widgets
+ - simple ML classification streamlit app using iris dataset
 
 
 
