@@ -69,6 +69,12 @@
  - Topic2: Magic  Methods in python
  - Topic3: Operator Overloading
 
+   ## DAY 12 - 19th June,2025
+- Learning about streamlit
+ - install streamlit from requirements.txt
+ - run **streamlit run app.py** to run application
+ - displaying dataframe,charts and other widgets
+ - simple ML classification streamlit app using iris dataset
 
 
 
