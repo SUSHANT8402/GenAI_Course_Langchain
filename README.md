@@ -1,5 +1,3 @@
-Here’s your updated and properly formatted `README.md` in **Markdown**, including clear hierarchy, consistent date formatting, and proper bullet alignment:
-
 ---
 
 # 📚 Learning GenAI with Langchain and Hugging Face
