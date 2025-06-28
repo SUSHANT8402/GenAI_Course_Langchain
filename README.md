@@ -168,5 +168,21 @@ This repository tracks the daily progress of learning Python, NLP, and GenAI usi
   * Ngram in NLP
    * implementation of N-gram BOW usinf count vectorizer
 
+  ## 📅 DAY 16 - 27th June, 2025
+
+* NLP Basics:
+
+  * Word Embeddings  
+  * Word2Vec
+   * Continious bag of words
+   * Skipgram
+
+  ## 📅 DAY 17 - 28th June, 2025
+
+* NLP Basics:
+
+  * Word2Vec implemetation 
+
+
 ---
 
