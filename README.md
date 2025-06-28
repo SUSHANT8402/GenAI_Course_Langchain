@@ -147,7 +147,7 @@ This repository tracks the daily progress of learning Python, NLP, and GenAI usi
   * POS (Part-of-Speech) Tagging
   * Named Entity Recognition (NER)
 
-  ## 📅 DAY 13 - 21st June, 2025
+  ## 📅 DAY 14 - 21st June, 2025
 
 * NLP Basics:
 
@@ -155,6 +155,16 @@ This repository tracks the daily progress of learning Python, NLP, and GenAI usi
    * Advantages and disadvantages of OHE
   * Bag of word Intuition
    * implmentation of Binary BOW for sms spam/ham dataset
+  * Ngram in NLP
+   * implementation of N-gram BOW usinf count vectorizer
+
+  ## 📅 DAY 15 - 22nd June, 2025
+
+* NLP Basics:
+
+  * TF-IDF
+   * Advantages and disadvantages of YF-IDF
+   * TF-IDF implementation
   * Ngram in NLP
    * implementation of N-gram BOW usinf count vectorizer
 
