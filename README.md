@@ -183,6 +183,53 @@ This repository tracks the daily progress of learning Python, NLP, and GenAI usi
 
   * Word2Vec implemetation 
 
+  ## 📅 DAY 18 - 29th June, 2025
+
+* Deep Learning for NLP:
+
+  * ANN vs RNN
+
+  ## 📅 DAY 19 - 30th June, 2025
+
+* Simple RNN indepth Intuition:
+
+  * RNN forward Propagation with time
+  * RNN Backward Propagation with time
+  * Problems with RNN
+
+  ## 📅 DAY 20 - 1st July, 2025
+
+* Simple RNN indepth Intuition:
+
+  * RNN Backward Propagation with time
+
+  ## 📅 DAY 21 - 2nd July, 2025
+
+* Simple RNN indepth Intuition:
+
+  * Problems with RNN
+
+  ## 📅 DAY 22 - 5th July, 2025
+
+* ANN Project Implementation:
+
+  *  Loading Dataset
+  *  Feature Engineering
+  *  Saving pickle files for encoder,scaler,OHE
+
+  ## 📅 DAY 23 - 6th July, 2025
+
+* ANN Project Implementation:
+
+  *  Dividing Dataset into dependent and independent 
+  *  Initializing Sequesntial Model
+  *  Setup Tensorborad,Early stopping
+  * Compiling and Model Training
+
+
+
+
+
 
 ---
 
