@@ -14,18 +14,26 @@ os.makedirs(log_dir, exist_ok=True)
 log_filename = os.path.join(log_dir, f"churn_app_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log")
 logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
+# Define base directory (where this script is located)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Define file paths relative to script location
+MODEL_PATH = os.path.join(BASE_DIR, "model.h5")
+GENDER_ENCODER_PATH = os.path.join(BASE_DIR, "label_encoder_gender.pkl")
+GEO_ENCODER_PATH = os.path.join(BASE_DIR, "onehot_encoder_geo.pkl")
+SCALER_PATH = os.path.join(BASE_DIR, "scaler.pkl")
+
 # Load model and encoders/scalers
 try:
-    model = tf.keras.models.load_model(
-        r'C:\Users\susha\Desktop\UDEMY\Complete_GENAI_COURSE\GenAI_Course_Langchain\python_ann_implementation\model.h5')
+    model = tf.keras.models.load_model(MODEL_PATH)
 
-    with open(r'C:\Users\susha\Desktop\UDEMY\Complete_GENAI_COURSE\GenAI_Course_Langchain\python_ann_implementation\label_encoder_gender.pkl', 'rb') as file:
+    with open(GENDER_ENCODER_PATH, 'rb') as file:
         label_encoder_gender = pickle.load(file)
 
-    with open(r'C:\Users\susha\Desktop\UDEMY\Complete_GENAI_COURSE\GenAI_Course_Langchain\python_ann_implementation\onehot_encoder_geo.pkl', 'rb') as file:
+    with open(GEO_ENCODER_PATH, 'rb') as file:
         onehot_encoder_geo = pickle.load(file)
 
-    with open(r'C:\Users\susha\Desktop\UDEMY\Complete_GENAI_COURSE\GenAI_Course_Langchain\python_ann_implementation\scaler.pkl', 'rb') as file:
+    with open(SCALER_PATH, 'rb') as file:
         scaler = pickle.load(file)
 
 except Exception as e:
