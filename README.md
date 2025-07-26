@@ -226,6 +226,129 @@ This repository tracks the daily progress of learning Python, NLP, and GenAI usi
   *  Setup Tensorborad,Early stopping
   * Compiling and Model Training
 
+  ## 📅 DAY 24 - 7th July, 2025
+
+* ANN Project Implementation:
+
+  *  Prediction with trained ANN model
+  *  Integrating ANN Model with streamlit web app
+  *  Deploying streamlit app on streamlit cloud
+
+🔗 Live App:
+https://genaicourselangchain-29cjm59npukgvtpf4asffx.streamlit.app/
+
+  ## 📅 DAY 25 - 8th July, 2025
+
+* LSTM RNN Indepth intuition:
+
+  *  Why LSTM RNN
+  *  LSTM RNN Architecture
+
+  ## 📅 DAY 26 - 9th July, 2025
+
+* LSTM RNN Indepth intuition:
+
+  *  Forget Gate in LSTM RNN
+  *  Input Gate and candidate memory in LSTM RNN
+  *  Output gate in LSTM RNN
+
+  ## 📅 DAY 27 - 10th July, 2025
+
+* LSTM RNN Indepth intuition:
+
+  *  Training proces in LSTM RNN
+  *  Varients of LSTM RNN
+  *  GRU ENN Indepth intuition
+
+  ## 📅 DAY 28 - 11th July, 2025
+
+* Bi-Directional RNN Indepth intuition:
+
+  *  Types of RNN
+  *  Architecture of Bi-Directional RNN
+  *  Problems with Bi-Directional RNN
+
+  ## 📅 DAY 29 - 12th July, 2025
+
+* Encoder-Decoder Seq2Seq Architecture:
+
+  * Indepth Intuition OF Encoder And Decoder-Sequence to Sequence Architecture
+  *  Problems with Encoder and Decoder
+
+  ## 📅 DAY 30 - 13th July, 2025
+
+* Attention Mechanism - Seq2Seq Networks:
+
+  * Attention Mechanism Indepth Architecture Explanation
+  
+  ## 📅 DAY 31 - 14th July, 2025
+
+* Transformers:
+
+  * What and Why To Use Transformers
+  * Understanding The basic Architecture Of Encoder
+
+  ## 📅 DAY 32 - 15th July, 2025
+
+* Transformers:
+
+  * Self Attention Layer Working
+
+  ## 📅 DAY 33 - 16th July, 2025
+
+* Transformers:
+
+  * Multi Head Attention
+  * Feed Forward Neural Network With Multi Head Attention
+
+
+  ## 📅 DAY 34 - 16th July, 2025
+
+* Transformers:
+
+  *  Positional Encoding Indepth Intuition
+  *  Layer Normalization
+
+  ## 📅 DAY 35 - 17th July, 2025
+
+* Transformers:
+
+  *  Complete Encoder Transformer Architecture
+  *  Decoder-Masked Multi Head Attention
+
+  ## 📅 DAY 36 - 18th July, 2025
+
+* Transformers:
+
+  *  Encoder and Decoder Multi Head Attention
+  *  Decoder Final Linear And Softmax Layer\
+
+  ## 📅 DAY 37 - 19th July, 2025
+
+* Introduction to Generative AI and LLM Models:
+
+  *  What is Generative AI- AI Vs ML Vs DL Vs Generative AI
+  *  How Open AI ChatGPt or LLama3 LLM Models are Trained
+  *  Evolution OF LLM Models and Analysis
+
+  ## 📅 DAY 38 - 20th July, 2025
+
+* Introduction to Langchain for Generative AI:
+
+  *  Complete Langchain Ecosystem
+
+  ## 📅 DAY 39 - 21st July, 2025
+
+* Getting started with Langchain and OpenAI:
+
+  *  Getting started with Langchain and openAI
+
+  ## 📅 DAY 40 - 21st July, 2025
+
+* Getting started with Langchain and OpenAI:
+
+  *  Getting started with Langchain and openAI
+
 
 
 
