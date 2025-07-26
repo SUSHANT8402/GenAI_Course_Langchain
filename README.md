@@ -343,16 +343,11 @@ https://genaicourselangchain-29cjm59npukgvtpf4asffx.streamlit.app/
 
   *  Getting started with Langchain and openAI
 
-  ## 📅 DAY 40 - 21st July, 2025
+  ## 📅 DAY 40 - 22nd July, 2025
 
 * Getting started with Langchain and OpenAI:
 
   *  Getting started with Langchain and openAI
-
-
-
-
-
 
 ---
 
