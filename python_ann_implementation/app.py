@@ -19,10 +19,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 
 # Define file paths relative to script location
-MODEL_PATH = os.path.join(BASE_DIR, "model.h5")
-GENDER_ENCODER_PATH = os.path.join(BASE_DIR, "label_encoder_gender.pkl")
-GEO_ENCODER_PATH = os.path.join(BASE_DIR, "onehot_encoder_geo.pkl")
-SCALER_PATH = os.path.join(BASE_DIR, "scaler.pkl")
+MODEL_PATH = os.path.join(ASSETS_DIR, "model.h5")
+GENDER_ENCODER_PATH = os.path.join(ASSETS_DIR, "label_encoder_gender.pkl")
+GEO_ENCODER_PATH = os.path.join(ASSETS_DIR, "onehot_encoder_geo.pkl")
+SCALER_PATH = os.path.join(ASSETS_DIR, "scaler.pkl")
 
 # Load model and encoders/scalers
 try:
