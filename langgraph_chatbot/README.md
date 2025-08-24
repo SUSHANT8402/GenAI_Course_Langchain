@@ -1,7 +1,16 @@
-```markdown
 # LangGraph Chatbot 🤖
 
-A modular chatbot built with **LangGraph** and **Groq LLMs**, featuring logging, exception handling, graph visualization, REST API (FastAPI), and a Streamlit frontend.
+A modular chatbot built with **LangGraph** and **Groq LLMs**, featuring logging, exception handling, graph visualization, REST API (FastAPI), and a Streamlit frontend. Now fully deployed on **Render** 🚀.
+
+---
+
+## 🌐 Live Deployment
+
+* **Frontend (Streamlit UI):** [https://genai-course-langchain.onrender.com/](https://genai-course-langchain.onrender.com/)
+* **Backend (FastAPI API):** [https://genai-course-langchain-1.onrender.com/](https://genai-course-langchain-1.onrender.com/)
+
+  * Health check: [https://genai-course-langchain-1.onrender.com/health](https://genai-course-langchain-1.onrender.com/health)
+  * Chat endpoint: [https://genai-course-langchain-1.onrender.com/chat](https://genai-course-langchain-1.onrender.com/chat)
 
 ---
 
@@ -9,11 +18,11 @@ A modular chatbot built with **LangGraph** and **Groq LLMs**, featuring logging,
 
 The chatbot generates **two different visualizations**:
 
-- **Static State Graph** (`graph.png`)  
+* **Static State Graph** (`graph.png`)
   ![Chatbot Graph](./langgraph_chatbot/static/graph.png)
 
-- **Runtime Graph with Tools** (`graph_with_tools.png`)  
-  Generated dynamically when you run the chatbot.  
+* **Runtime Graph with Tools** (`graph_with_tools.png`)
+  Generated dynamically when you run the chatbot.
   ![Graph with Tools](./langgraph_chatbot/static/graph_with_tools.png)
 
 ---
@@ -27,24 +36,26 @@ The chatbot generates **two different visualizations**:
 * **Exception Handling** to keep the chatbot running smoothly.
 * **Graph Visualization** (`graph.png` & `graph_with_tools.png`).
 * **Tool Integration**:
-  - 🔎 Wikipedia
-  - 📄 Arxiv
+
+  * 🔎 Wikipedia
+  * 📄 Arxiv
 * **Multi-Interface Support**:
-  - ✅ Console-based chatbot
-  - ✅ FastAPI backend (`/chat` endpoint)
-  - ✅ Streamlit frontend UI
+
+  * ✅ Console-based chatbot
+  * ✅ FastAPI backend (`/chat` endpoint)
+  * ✅ Streamlit frontend UI
 * **Console Output** (CLI mode):
-  - Assistant responses (green).
-  - Tool calls and results (yellow, with tool name shown).
+
+  * Assistant responses (green).
+  * Tool calls and results (yellow, with tool name shown).
 
 ---
 
 ## 📂 Project Structure
 
 ```
-
-langgraph\_chatbot/
-│── **init**.py
+langgraph_chatbot/
+│── __init__.py
 │── config.py          # Environment variables & LangSmith setup
 │── utils.py           # Logging & error handling
 │── tools.py           # Wikipedia & Arxiv tool definitions
@@ -59,13 +70,12 @@ langgraph\_chatbot/
 │
 └── static/            # Stores generated graphs
     │── graph.png          # Static graph visualization
-    └── graph\_with\_tools.png  # Runtime graph visualization
-
-````
+    └── graph_with_tools.png  # Runtime graph visualization
+```
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation (Local)
 
 ### 1. Create Virtual Environment
 
@@ -73,7 +83,7 @@ langgraph\_chatbot/
 python3 -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
-````
+```
 
 ### 2. Install Dependencies
 
@@ -104,13 +114,13 @@ Example:
 
 ```
 👤 You: hi my name is Sushant
-🤖 Assistant (from chatbot): Hello, Sushant! How can I help you today?
+🤖 Assistant: Hello, Sushant! How can I help you today?
 
 👤 You: who is Shah Rukh Khan?
 🛠️ Tool Called: Wikipedia
 Shah Rukh Khan is an Indian actor, film producer, and television personality...
 
-🤖 Assistant (from chatbot): Shah Rukh Khan is a famous Indian actor, often called the "King of Bollywood."
+🤖 Assistant: Shah Rukh Khan is a famous Indian actor, often called the "King of Bollywood."
 ```
 
 Exit with:
@@ -119,9 +129,7 @@ Exit with:
 👤 You: quit
 ```
 
----
-
-### ▶️ Run as Web App (FastAPI + Streamlit)
+### ▶️ Run as Web App (Local FastAPI + Streamlit)
 
 From the **project root**:
 
@@ -156,15 +164,12 @@ This runs the web UI at: [http://localhost:8501](http://localhost:8501)
 * `graph_with_tools.png` → generated dynamically at runtime.
 * Both console & web interfaces share the same **LangGraph state machine**.
 
-
 ---
 
-```
-
 👉 This README now reflects:
-- ✅ Backend (FastAPI)  
-- ✅ Frontend (Streamlit)  
-- ✅ Memory support  
-- ✅ Updated project structure  
 
-```
+* ✅ Backend (FastAPI)
+* ✅ Frontend (Streamlit)
+* ✅ Memory support
+* ✅ Deployment on **Render** 🎉
+* ✅ Updated project structure
