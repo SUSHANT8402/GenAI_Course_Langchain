@@ -1,8 +1,11 @@
 import streamlit as st
 import requests
-from langgraph_chatbot.config import Config
+from dotenv import load_dotenv
+import os
 
-API_URL = Config.API_URL 
+load_dotenv()
+API_URL = os.getenv("API_URL")
+
 
 st.set_page_config(page_title="LangGraph Chatbot with Wikipedia and Axriv Tools", page_icon="🤖")
 
