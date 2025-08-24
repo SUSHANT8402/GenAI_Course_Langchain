@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
+from langgraph_chatbot.config import Config
 
-API_URL = "http://localhost:8000/chat"
+API_URL = Config.API_URL 
 
 st.set_page_config(page_title="LangGraph Chatbot with Wikipedia and Axriv Tools", page_icon="🤖")
 
