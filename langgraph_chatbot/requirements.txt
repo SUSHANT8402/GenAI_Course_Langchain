@@ -12,3 +12,8 @@ wikipedia
 rich
 python-dotenv
 matplotlib
+uvicorn
+fastapi
+streamlit
+httpx
+pydantic
